@@ -1,0 +1,14 @@
+﻿
+@{
+	ViewBag.Title = "IndexViewBag";
+}
+
+<h2>IndexViewBag</h2>
+
+<h1>@ViewBag.Namestudent</h1>
+@foreach (var names in ViewBag.list)
+{
+	<li>
+		@names;
+	</li>
+}

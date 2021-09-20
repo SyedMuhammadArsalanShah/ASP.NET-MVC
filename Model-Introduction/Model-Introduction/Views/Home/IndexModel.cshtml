@@ -1,0 +1,27 @@
+﻿@model Model_Introduction.Models.Students
+
+@{
+	ViewBag.Title = "IndexModel";
+}
+
+<h2>IndexModel</h2>
+<style>
+	table ,th,td ,tr{
+
+		border:1px solid black;
+		text-align:center;
+		padding:10px;
+
+
+	}
+</style>
+<table>
+	<th>ID</th>
+	<th>Name</th>
+	<th>CNIC</th>
+	<tr>
+		<td>@Model.id </td>
+		<td>@Model.Name</td>
+		<td>@Model.Cnic
+	</tr></tr>
+</table>

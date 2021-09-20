@@ -1,0 +1,14 @@
+﻿
+@{
+	ViewBag.Title = "IndexViewData";
+}
+
+<h2>IndexViewData</h2>
+
+<h1>@ViewData["Name"]</h1>
+ @foreach (var names in (List<string>)ViewData["list"])
+  {
+	<li>
+		@names;
+	</li>
+  }
