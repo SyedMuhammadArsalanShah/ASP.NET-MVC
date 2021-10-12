@@ -1,0 +1,17 @@
+﻿
+@{
+	ViewBag.Title = "UserDashboard";
+}
+
+<h2>UserDashboard</h2>
+
+@*@if (Request.Cookies["UserEmail"] != null)
+{
+	<h1> welcome @Request.Cookies["UserEmail"].Value.ToString() </h1>
+}*@
+
+
+@if (Session["UserEmail"] != null)
+{
+	<h1> welcome @Session["UserEmail"].ToString() </h1>
+}
