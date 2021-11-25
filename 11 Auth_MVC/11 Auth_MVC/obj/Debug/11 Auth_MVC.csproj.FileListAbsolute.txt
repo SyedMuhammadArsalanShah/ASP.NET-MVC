@@ -103,3 +103,108 @@ E:\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\obj\Debug\11 Auth_MVC.csproj.
 E:\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\obj\Debug\11 Auth_MVC.csproj.CopyComplete
 E:\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\obj\Debug\11 Auth_MVC.dll
 E:\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\obj\Debug\11 Auth_MVC.pdb
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\11 Auth_MVC.dll.config
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\11 Auth_MVC.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\11 Auth_MVC.pdb
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\csc.exe
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\csc.exe.config
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\csc.rsp
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\csi.exe
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\csi.exe.config
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\csi.rsp
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\System.AppContext.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\System.Collections.Immutable.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\System.Console.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\System.IO.Compression.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\System.IO.FileSystem.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\System.IO.Pipes.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\System.Reflection.Metadata.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\System.Security.AccessControl.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\System.Security.Claims.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\System.ValueTuple.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\System.Xml.XPath.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\vbc.exe
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\vbc.exe.config
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\vbc.rsp
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\VBCSCompiler.exe
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\roslyn\VBCSCompiler.exe.config
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Antlr3.Runtime.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\EntityFramework.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\EntityFramework.SqlServer.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Microsoft.Owin.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Microsoft.Owin.Security.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Microsoft.Owin.Security.Google.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Microsoft.Web.Infrastructure.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Newtonsoft.Json.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Owin.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\System.Web.Helpers.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\System.Web.Mvc.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\System.Web.Optimization.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\System.Web.Razor.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\System.Web.WebPages.Deployment.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\System.Web.WebPages.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\System.Web.WebPages.Razor.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\WebGrease.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\System.Web.Helpers.xml
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\System.Web.Mvc.xml
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\System.Web.Optimization.xml
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\System.Web.Razor.xml
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\System.Web.WebPages.xml
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\System.Web.WebPages.Deployment.xml
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\System.Web.WebPages.Razor.xml
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Newtonsoft.Json.xml
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Antlr3.Runtime.pdb
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\EntityFramework.xml
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\EntityFramework.SqlServer.xml
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Microsoft.Owin.xml
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Microsoft.Owin.Security.xml
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Microsoft.Owin.Security.Google.xml
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\obj\Debug\11 Auth_MVC.csproj.CoreCompileInputs.cache
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\obj\Debug\11 Auth_MVC.csproj.CopyComplete
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\obj\Debug\11 Auth_MVC.dll
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\obj\Debug\11 Auth_MVC.pdb
+F:\Aptech\Aptech-ASP.NET-With-MVC\11 Auth_MVC\11 Auth_MVC\obj\Debug\11 Auth_MVC.csprojAssemblyReference.cache

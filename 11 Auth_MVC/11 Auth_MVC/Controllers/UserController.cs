@@ -47,22 +47,22 @@ namespace _11_Auth_MVC.Controllers
             Signup s = obj.Signups.Where(a => a.Email.Equals(model.Email) && a.CurrentPassword.Equals(model.CurrentPassword)).SingleOrDefault();
             if (s != null)
             {
-                //HttpCookie hc1 = new HttpCookie("UserID", s.Id.ToString());
-                //Response.Cookies.Add(hc1);
-                //HttpCookie hc2 = new HttpCookie("UserEmail", s.Email.ToString());
-                //Response.Cookies.Add(hc2);
-                //Response.Cookies["UserID"].Value = s.Id.ToString();
-                //Response.Cookies["UserEmail"].Value = s.Email.ToString();
-                //HttpCookie hc1 = new HttpCookie("UserID", s.Id.ToString());
-                //hc1.Expires = DateTime.Now.AddSeconds(10);
-                //Response.Cookies.Add(hc1);
-                //HttpCookie hc2 = new HttpCookie("UserEmail", s.Email.ToString());
-                //hc2.Expires = DateTime.Now.AddSeconds(10);
-                // Response.Cookies.Add(hc2);
+             // HttpCookie hc1 = new HttpCookie("UserID", s.Id.ToString());
+             //Response.Cookies.Add(hc1);
+             //HttpCookie hc2 = new HttpCookie("UserEmail", s.Email.ToString());
+             //  Response.Cookies.Add(hc2);
+            //Response.Cookies["UserID"].Value = s.Id.ToString();
+            //Response.Cookies["UserEmail"].Value = s.Email.ToString();
+         HttpCookie hc1 = new HttpCookie("UserID", s.Id.ToString());
+           hc1.Expires = DateTime.Now.AddSeconds(10);
+          Response.Cookies.Add(hc1);
+           HttpCookie hc2 = new HttpCookie("UserEmail", s.Email.ToString());
+           hc2.Expires = DateTime.Now.AddSeconds(10);
+           Response.Cookies.Add(hc2);
 
 
-                Session["UserID"] = s.Email.ToString();
-                Session["UserEmail"] = s.Email.ToString();
+                //Session["UserID"] = s.Email.ToString();
+                //Session["UserEmail"] = s.Email.ToString();
                 return RedirectToAction("UserDashboard");
 
             }
@@ -79,7 +79,7 @@ namespace _11_Auth_MVC.Controllers
         public ActionResult Logout()
         {
 
-            Session.Abandon();
+           // Session.Abandon();
             FormsAuthentication.SignOut();
 
             return RedirectToAction("Login");
